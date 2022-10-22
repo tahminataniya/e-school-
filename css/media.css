@@ -2,7 +2,7 @@
 @media (max-width: 575.98px) { 
     /*banner start*/
    .banner {
-     padding: 15px 0px;
+     padding: 15px 0 40px;
     
    }
    .b_text {
@@ -21,6 +21,12 @@
    .b_img {
      margin-bottom: 25px;
      padding: 0 10px;
+   }
+ .b_btn{
+     padding: 12px 31px;
+     width: 146px;
+     height: 41px;
+   
    }
    /*banner end*/
     /*feature start*/
